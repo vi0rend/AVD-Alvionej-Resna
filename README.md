@@ -1,1 +1,3 @@
-# AVD-Alvionej-Resna
+# AVD-Alvionej-Resna Sistem Informasi'24
+# Studi Kasus
+Universitas di Asia bersaing ketat dalam meningkatkan reputasi akademik, jumlah sitasi penelitian, dan jumlah mahasiswa internasional untuk memperoleh peringkat yang lebih tinggi. Beberapa universitas mengalami stagnasi peringkat meskipun memiliki reputasi akademik yang baik, menunjukkan bahwa faktor lain seperti jumlah publikasi berkualitas dan tingkat internasionalisasi juga berperan penting. Analisis data menunjukkan bahwa universitas dengan lebih banyak mahasiswa internasional, rasio fakultas terhadap mahasiswa yang ideal, dan jumlah sitasi yang tinggi cenderung memiliki peringkat lebih baik. Oleh karena itu, universitas perlu fokus pada peningkatan kualitas penelitian, kerja sama internasional, serta menciptakan lingkungan akademik yang mendukung agar lebih kompetitif di tingkat global.
